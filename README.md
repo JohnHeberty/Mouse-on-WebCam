@@ -15,6 +15,9 @@
       4.1. Green bottom box = main mouse button; Red bottom box = secondary mouse button;
     5. To end the program just move the physical mouse that will be finished.
 
+don't want to worry about programming, but just having fun? download the executable for fun<br/>
+Downloand of executable <a href='https://drive.google.com/file/d/1-kUrqLQ3a3pdrGDfcLwUw5nUq2XjFCPu/view?usp=sharing'>click on here</a>
+
 # License for use.
 <p align="justify">
 The program is free to use and trade because it is extremely simple, I only ask you to refer me if they disclose or commercialize >> "Developed by John Heberty de Freitas, Federal University of Goiás, of the Transport Engineering course, in Brazil." <<. I am new in this area and I am building my resume, I ask you to help me spreading my instagram page >> ToPraSerEng. Thank you all, have fun!
