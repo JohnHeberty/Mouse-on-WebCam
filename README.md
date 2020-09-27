@@ -16,7 +16,7 @@
     5. To end the program just move the physical mouse that will be finished.
 
 don't want to worry about programming, but just having fun? download the executable for fun<br/>
-Downloand of executable <a href='https://drive.google.com/file/d/1-kUrqLQ3a3pdrGDfcLwUw5nUq2XjFCPu/view?usp=sharing'>click on here</a>
+Downloand of executable <a href='https://drive.google.com/file/d/1-kUrqLQ3a3pdrGDfcLwUw5nUq2XjFCPu/view?usp=sharing' target="_blank">click on here</a>
 
 # License for use.
 <p align="justify">
