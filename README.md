@@ -17,6 +17,6 @@
 
 # License for use.
 <p align="justify">
-The program is free to use and trade because it is extremely simple, the only question I do if they are going to publicize or commercialize it for reference >> "Developed by John Heberty de Freitas, Federal University of Goiás, of the Transport Engineering course, in Brazil." <<. I am new in this area and I am building my resume, I ask you to help me spreading my instagram page >> ToPraSerEng. Thank you all, have fun!
+The program is free to use and trade because it is extremely simple, I only ask you to refer me if they disclose or commercialize >> "Developed by John Heberty de Freitas, Federal University of Goiás, of the Transport Engineering course, in Brazil." <<. I am new in this area and I am building my resume, I ask you to help me spreading my instagram page >> ToPraSerEng. Thank you all, have fun!
 </p>
     
